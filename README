@@ -1,0 +1,24 @@
+================================================
+B-609: Programming Assignment 1
+
+Vraj Parikh: parikhv@indiana.edu
+Marshal Patel: marshalp@indiana.edu
+
+===============================================
+
+--------------------------------------------------
+Steps to run the program
+--------------------------------------------------
+
+1. Please make sure the dataset and jar files are in the same directory.
+
+2. In the terminal, navigate to the directory, where the jar file is located.
+
+3. Run the following command:
+				java -jar DT.jar <traindataset.ext> <testdataset.ext> <column number of the class attribute> <depth>
+
+4. All the arguements are required.
+
+5. Please make sure that there are no column headers in the dataset files.
+
+
